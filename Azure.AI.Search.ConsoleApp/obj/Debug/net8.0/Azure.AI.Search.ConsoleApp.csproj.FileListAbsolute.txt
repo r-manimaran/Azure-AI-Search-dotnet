@@ -1,0 +1,14 @@
+C:\Maran\StudyMaterials\Git\AzureAISearch\Azure.AI.Search.ConsoleApp\bin\Debug\net8.0\Azure.AI.Search.ConsoleApp.exe
+C:\Maran\StudyMaterials\Git\AzureAISearch\Azure.AI.Search.ConsoleApp\bin\Debug\net8.0\Azure.AI.Search.ConsoleApp.deps.json
+C:\Maran\StudyMaterials\Git\AzureAISearch\Azure.AI.Search.ConsoleApp\bin\Debug\net8.0\Azure.AI.Search.ConsoleApp.runtimeconfig.json
+C:\Maran\StudyMaterials\Git\AzureAISearch\Azure.AI.Search.ConsoleApp\bin\Debug\net8.0\Azure.AI.Search.ConsoleApp.dll
+C:\Maran\StudyMaterials\Git\AzureAISearch\Azure.AI.Search.ConsoleApp\bin\Debug\net8.0\Azure.AI.Search.ConsoleApp.pdb
+C:\Maran\StudyMaterials\Git\AzureAISearch\Azure.AI.Search.ConsoleApp\obj\Debug\net8.0\Azure.AI.Search.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Maran\StudyMaterials\Git\AzureAISearch\Azure.AI.Search.ConsoleApp\obj\Debug\net8.0\Azure.AI.Search.ConsoleApp.AssemblyInfoInputs.cache
+C:\Maran\StudyMaterials\Git\AzureAISearch\Azure.AI.Search.ConsoleApp\obj\Debug\net8.0\Azure.AI.Search.ConsoleApp.AssemblyInfo.cs
+C:\Maran\StudyMaterials\Git\AzureAISearch\Azure.AI.Search.ConsoleApp\obj\Debug\net8.0\Azure.AI.Search.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Maran\StudyMaterials\Git\AzureAISearch\Azure.AI.Search.ConsoleApp\obj\Debug\net8.0\Azure.AI.Search.ConsoleApp.dll
+C:\Maran\StudyMaterials\Git\AzureAISearch\Azure.AI.Search.ConsoleApp\obj\Debug\net8.0\refint\Azure.AI.Search.ConsoleApp.dll
+C:\Maran\StudyMaterials\Git\AzureAISearch\Azure.AI.Search.ConsoleApp\obj\Debug\net8.0\Azure.AI.Search.ConsoleApp.pdb
+C:\Maran\StudyMaterials\Git\AzureAISearch\Azure.AI.Search.ConsoleApp\obj\Debug\net8.0\Azure.AI.Search.ConsoleApp.genruntimeconfig.cache
+C:\Maran\StudyMaterials\Git\AzureAISearch\Azure.AI.Search.ConsoleApp\obj\Debug\net8.0\ref\Azure.AI.Search.ConsoleApp.dll

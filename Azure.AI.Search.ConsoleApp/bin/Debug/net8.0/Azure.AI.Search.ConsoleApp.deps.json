@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Azure.AI.Search.ConsoleApp/1.0.0": {
+        "runtime": {
+          "Azure.AI.Search.ConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Azure.AI.Search.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
