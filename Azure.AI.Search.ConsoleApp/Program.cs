@@ -1,6 +1,19 @@
-﻿using Azure.AI.Search.ConsoleApp;
+﻿using Azure;
+using Azure.AI.Search.ConsoleApp;
+using Azure.Search.Documents;
+using Microsoft.Extensions.Configuration;
 
-System.Console.WriteLine("Starting Azure AI Search Tool");
+IConfiguration configuration = new ConfigurationBuilder()
+    .AddJsonFile("appsettings.json")
+    .AddUserSecrets<Program>()
+    .Build();
+
+string indexName = configuration["indexName"]!;
+string adminApiKey = configuration["adminKey"]!;
+string endpoint = configuration["endpoint"]!;
+
+
+Console.WriteLine("Starting Azure AI Search Tool");
 Console.WriteLine("-----------------------------------");
 Console.WriteLine("Options:");
 Console.WriteLine("1. Create Index");
@@ -21,7 +34,8 @@ switch (choice)
         await SearchHelper.UploadDocuments();
         break;
     case "3":
-        await SearchHelper.SearchDocuments();
+        Console.WriteLine("Enter search query: ");
+        await SearchHelper.SearchDocuments(endpoint,adminApiKey,indexName);
         break;
     case "4":
         return;
