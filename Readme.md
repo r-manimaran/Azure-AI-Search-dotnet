@@ -14,4 +14,6 @@
 > dotnet add package Azure.Search.Documents --version 11.5.1
 
 > dotnet add package CsvHelper
+
+> dotnet new gitignore
 ```
